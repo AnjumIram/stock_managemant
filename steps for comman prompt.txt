@@ -1,0 +1,61 @@
+1.) HOW TO CREATE A PROJECT WITH 'CREATE REACT APP'?
+-------------------------------------------------------
+
+1.) Install the latest version of Node.js in your system.
+
+2.) c:\Users\anjum>npm install -g create-react-app
+
+3.) C:\Users\anjum>create-react-app project-test
+
+        // This step will take some time
+
+C:\Users\anjum>cd project-test
+
+C:\Users\anjum>npm start
+
+Allow Access in the dialogue box 
+
+Type 'project-test' in the search menu
+
+
+2.) HOW TO RUN THE PROJECT?
+------------------------------
+
+Open command prompt.
+
+C:\Users\anjum>cd project-test
+
+C:\Users\anjum>npm start
+
+The project will run as Localhost : 3000 in the browser
+
+
+3.) HOW TO BUILD THE PROJECT ?
+-------------------------------
+
+Open command prompt.
+
+C:\Users\anjum>project-test
+
+C:\Users\anjum>project-test>npm run build
+
+A build folder will be generated inside the project folder.
+
+Copy and paste the new 'build' folder inside the C drive, 'htdocs' folder
+
+Open this 'build' folder inside the VS Code.
+
+Then open index.html.
+
+Auto format the document :- 
+     i.) Press ctlr+A
+     ii.) Press ctrl + k  and  ctrl + f
+
+
+
+
+
+
+
+
+
